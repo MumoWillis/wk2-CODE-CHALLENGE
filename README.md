@@ -21,12 +21,12 @@ Git
 
 ### Installation instruction
 ```
-
+Uses github for installation.
 
 ```
 
 # Live Link
-[Git](gh-pages link)
+[Git](https://github.com/MumoWillis/wk2-CODE-CHALLENGE)
 
 ## Technologies used
 Github
